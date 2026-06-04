@@ -15,6 +15,7 @@ data = {
 ```
 
 <p align="center">
+  
 ## 📊 GitHub Stats:
 
 <table align="center">
