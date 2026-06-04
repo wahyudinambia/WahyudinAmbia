@@ -50,4 +50,3 @@ Feel free to contact me if you want to collaborate on a project, or just chat!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/W4hyuXD/W4hyuXD/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/W4hyuXD/W4hyuXD/output/pacman-contribution-graph.svg">
 </picture>
-###
