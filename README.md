@@ -45,7 +45,6 @@ Feel free to contact me if you want to collaborate on a project, or just chat!
 [![Facebook](https://img.shields.io/badge/-Facebook-%233700eeff?style=flat&logo=facebook&logoColor=white)](https://m.facebook.com/whyu.404)
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@why.404_)
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/W4hyuXD/W4hyuXD/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/W4hyuXD/W4hyuXD/output/pacman-contribution-graph.svg">
